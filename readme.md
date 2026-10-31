@@ -35,7 +35,7 @@ I am currently developing my skills in mobile application development.
 
 ### 📊 GitHub Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ambreen189&theme=github-dark)
+![GitHub Contribution Graph](https://github-readme-stats.vercel.app/api?username=Ambreen189&show_icons=true&theme=github_dark)
 
 ---
 
